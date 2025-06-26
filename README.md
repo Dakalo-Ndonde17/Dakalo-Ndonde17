@@ -2,7 +2,7 @@
 <a href="https://github.com/Dakalo-Ndonde15/"><img src="https://img.shields.io/badge/-DEFENSIVE_%2F_OFFENSIVE_SECURITY_ENGINEER-Purple?style=for-the-badge&color=purple"></a>
 <a href="https://www.youtube.com/@dakalondonde"><img src="https://img.shields.io/badge/-YOUTUBER-red?style=for-the-badge&logo=youtube&logoSize=auto&color=%23E10600"></a>&nbsp;☺
 
-<h2>🖥️ CLOUD ADMINISTRATOR PROJECTS:🖥️</h2>
+<h2>🖥️ CYBER SECURITY PROJECTS:🖥️</h2>
 
 - <b>Microsoft Azure </b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/Dakalo-Ndonde15/Configure-AD)
