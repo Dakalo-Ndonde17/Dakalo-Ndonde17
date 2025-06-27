@@ -31,7 +31,7 @@
 - [HACKING ACTIVE DIRECTORY](https://academy.simplycyber.io/courses/enrolled/2766774)
 - [HOW TO BREAK INTO GRC: MINDSET, METHODS, SKILLS](https://www.coursera.org/specializations/linux-private-cloud-administration-power-systems)
 - [PRACTICAL SECURITY FUNDAMENTALS](https://academy.tcm-sec.com/courses/enrolled/2763666)
-- [RED HAT LINUX AND PRIVATE CLOUD ADMINSTRATION](https://www.coursera.org/specializations/linux-private-clou
+- [RED HAT LINUX AND PRIVATE CLOUD ADMINSTRATION](https://www.coursera.org/specializations/linux-private-cloud-administration-power-systems)
 - [AWS CLOUD SUPPORT ASSOCIATE](https://www.coursera.org/professional-certificates/aws-cloud-support-associate)
 - [Active Directory Skills for IT Support Professionals](https://www.udemy.com/course/active-directory-skills-for-it-support-professionals/learn/lecture/32003824?start=0#overview)
 
