@@ -25,7 +25,6 @@
  
 - [MICROSOFT CYBER SECURITY ANALYST PROFFESSIONAL](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)
 - [GOOGLE CYBER SECURUTIY PROFESSIONAL](https://www.coursera.org/professional-certificates/google-cybersecurity)
-- [GOOGLE CYBER SECURUTIY PROFESSIONAL](https://www.coursera.org/professional-certificates/google-cybersecurity)
 - [ISO/IEC 27001:2022 Lead Auditor](https://learn.mastermindassurance.com/courses/take/new-course/lessons/61109891-welcome)
 - [INTRODUCTION TO HACKING METHODOLOGY](https://academy.simplycyber.io/courses/2738604/lectures/59918134)
 - [HACKING ACTIVE DIRECTORY](https://academy.simplycyber.io/courses/enrolled/2766774)
